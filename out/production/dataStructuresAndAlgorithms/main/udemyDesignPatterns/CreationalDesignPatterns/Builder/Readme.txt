@@ -1,0 +1,1 @@
+Builder pattern is used when you have a lot of member fields and constructors get heavy
